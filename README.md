@@ -1,6 +1,6 @@
-# Datenschutzerklärung & Impressum – „Mein Budget“
+# Datenschutzerklärung & Impressum – „CashKompass“
 
-Diese Seite gehört zur iPhone-App **Mein Budget** von Elias Scherer.
+Diese Seite gehört zur iPhone-App **CashKompass** von Elias Scherer.
 Apple verlangt für die Veröffentlichung im App Store eine öffentlich
 erreichbare Adresse mit der Datenschutzerklärung – dafür ist diese Seite da.
 
